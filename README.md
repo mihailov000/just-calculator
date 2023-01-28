@@ -1,2 +1,3 @@
 # just-calculator
-first try to make calculator
+don't know python well, but tried to do something
+(the square root is extracted from both numbers)
